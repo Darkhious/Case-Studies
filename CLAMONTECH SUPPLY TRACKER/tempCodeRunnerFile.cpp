@@ -1,1 +1,0 @@
-cout<<programTitle<<endl<<endl;
